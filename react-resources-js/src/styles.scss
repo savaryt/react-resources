@@ -1,0 +1,6 @@
+.helloWorld {
+  background: red;
+  &:hover {
+    background: green;
+  }
+}
